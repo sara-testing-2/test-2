@@ -1,2 +1,2 @@
 # test-2
-testing boost provisioning
+testing boost provisioning ztp
